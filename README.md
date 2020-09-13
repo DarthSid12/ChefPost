@@ -6,7 +6,7 @@ This app is an approach towards making a safe community and environment for budd
 
 ### GENERAL USAGE NOTICE
 - This app has been tested according to the screen resolution of Redmi Note 5 Pro. Running it on other Android Resolutions may overflow the screen.
-- This app is fully functional but is still under development. Like every other file, there's a scope of improvement. Any genuine help or change would be appreciated.
+- This app is fully functional but is still under development. Like every other app, there's a scope of improvement. Any genuine help or change would be appreciated.
 - This is an Android app. It works on Android 7.0 and above. Previous Android versions may cause glitches. It has support of iOS 2. Due to unavailability of an iOS product, the developer was unable to compile the app for iOS. But the code will still run. Again, any genuine change from an Open-Sourcer would be appreciated.
 - The blog can also be accessed through the web portal. Though not fully functional yet, the webpage aims to decrease the constraints of cross-device and platform glitches.
 - Minor bugs may arise during the functioning as the app is in a preliminary phase. User discretion is advised in such cases.
