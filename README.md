@@ -1,7 +1,7 @@
 **ChefPost**\
 Program version 1.0 dated 09/13/2020\
 
-**INTRODUCTION**
+**INTRODUCTION**\
 This app is an approach towards making a safe community and environment for budding chefs where they can manage their recipes and portfolios without any hesistance. They can also collaborate with other chefs to create a random culinary project online. They can raise a motion to delete a particular recipe/step/ingredient in a recipe. If the majority agrees, the motion will go in the favour and the recipe shall be deleted. We also wish to create a culinary-blogging atmosphere through the same.\
 
 **GENERAL USAGE NOTICE**\
