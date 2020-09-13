@@ -1,6 +1,6 @@
 # chef_post
 
-Flutter app for mlh bon appetit hackathon
+Flutter app for hackathon
 
 ## Getting Started
 
