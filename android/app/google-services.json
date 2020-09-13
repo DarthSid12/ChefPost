@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880810553798",
+    "firebase_url": "https://chefpost-ab17e.firebaseio.com",
+    "project_id": "chefpost-ab17e",
+    "storage_bucket": "chefpost-ab17e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880810553798:android:6597b8d0bd0d2a25d182c7",
+        "android_client_info": {
+          "package_name": "com.ninjas.chef_post"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880810553798-hsj3um5b1g4n4375qp0kvp3tethe1d62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ninjas.chef_post",
+            "certificate_hash": "8771d5f5485b2b5cfee94db38cfdcf733702d64e"
+          }
+        },
+        {
+          "client_id": "880810553798-v2p88vk0k37v017ial618fghghh7ria3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqwGhlo7It0IYNcRx8HRV77sUtS0m6pes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880810553798-v2p88vk0k37v017ial618fghghh7ria3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880810553798-e9kcmmvskefcgqs2d9pgoo0nvuv8su5q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ninjas.chefpost"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
