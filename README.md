@@ -1,6 +1,6 @@
-# chef_post
+# CHEFPOST
 
-Flutter app for hackathon
+Your One-Stop Destination for Culinary Fame
 
 ## Getting Started
 
