@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>880810553798-e9kcmmvskefcgqs2d9pgoo0nvuv8su5q.apps.googleusercontent.com</string>
+	<string>880810553798-33bgj7o9l2ahlci7o5ivmfegrj53ake8.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.880810553798-e9kcmmvskefcgqs2d9pgoo0nvuv8su5q</string>
+	<string>com.googleusercontent.apps.880810553798-33bgj7o9l2ahlci7o5ivmfegrj53ake8</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>880810553798-s221p2gu5u88k4i1sun5en9rrjmmme5h.apps.googleusercontent.com</string>
+	<string>880810553798-hsj3um5b1g4n4375qp0kvp3tethe1d62.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
 	<string>AIzaSyDBkeJt1sxi3Ggqw0h0_xeK6HEiBRLlvyQ</string>
 	<key>GCM_SENDER_ID</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ninjas.chefpost</string>
+	<string>com.ninjas.chefPost</string>
 	<key>PROJECT_ID</key>
 	<string>chefpost-ab17e</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,7 +31,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:880810553798:ios:581ee430b7e9d316d182c7</string>
+	<string>1:880810553798:ios:8c053c9ab7c97ab3d182c7</string>
 	<key>DATABASE_URL</key>
 	<string>https://chefpost-ab17e.firebaseio.com</string>
 </dict>
