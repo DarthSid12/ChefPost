@@ -28,7 +28,7 @@ Container makeDrawer(context,page) {
           makeTile(FaIcon(FontAwesomeIcons.scroll), context, "My Recipes", page, MyRecipes()),
           makeTile(FaIcon(Icons.account_circle), context, "My Profile", page, Profile()),
          ListTile(
-        leading: Icon(Icons.logout),
+        leading: Icon(Icons.exit_to_app),
         title: Text("Log out"),
         onTap: () async {
             await FirebaseAuth.instance.signOut();
